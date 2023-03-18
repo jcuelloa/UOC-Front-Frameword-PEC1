@@ -1,6 +1,6 @@
 # PEC1_Ej1 - solucion
 
-## **1.La aparición de HTML5/CSS3/JS ha supuesto el nacimiento del desarrollo front-end moderno.**
+## **1. La aparición de HTML5/CSS3/JS ha supuesto el nacimiento del desarrollo front-end moderno.**
 
 ### **¿Cuál es la ventaja del uso de etiquetas semánticas? Nombra y explica al menos 3 de estas ventajas.**
 
@@ -12,9 +12,9 @@ La última sería *practicidad*, pues un código semántico es más fácil de en
 
 ### **Cita al menos 3 APIs HTML5 y explica brevemente su funcionalidad.**
 
-- canvas: nos proporciona un rectangulo para dibujar
-- localStorage: nos permite guardar información en disco
-- geolocalizacion: permite averiguar la posición del usuario 
+- DOM API: permite manipular la estructura de tu HTML de una forma dinámica.
+- Canvas y WebGL API: crear gráficos 2D y 3D.
+- Geolocation API: permite averiguar la posición del usuario.
 
 
 ### **Cita qué opción ofrece CSS3 para conseguir que se apliquen diferentes estilos CSS sobre el mismo elemento en su visualización en diferentes dispositivos (diferentes tamaños de pantalla).**
@@ -37,7 +37,7 @@ Por ejemmplo, en el caso de que quisieramos aplicar un estilo espécifico cuando
 <br />
 <br />
 
-## **2.El lenguaje CSS es muy rígido, poco práctico y ordenado a la hora de programar. Para evitar este problema se han creado los preprocesadores CSS, que ofrecen evidentes ventajas (0.5 puntos)**
+## **2. El lenguaje CSS es muy rígido, poco práctico y ordenado a la hora de programar. Para evitar este problema se han creado los preprocesadores CSS, que ofrecen evidentes ventajas (0.5 puntos)**
 
 ### **Cita al menos 2 de estos preprocesadores.**
 - SASS
@@ -59,7 +59,7 @@ Permite cambiar o traducir código escrito en un lenguaje a otro lenguaje. Inclu
 Por ejmplo, podemos eescribir codigo Javascript ES6, pero transpilarlo a ES5 por compatibilidad. Otro ejemplo muy claro seria la transpilación de TypeScript a JavaScript. 
 
 
-## **3.El flujo de trabajo profesional en front-end hace indispensable el uso de herramientas como controles de versiones y herramientas de gestión de módulos (0.75 puntos).**
+## **3. El flujo de trabajo profesional en front-end hace indispensable el uso de herramientas como controles de versiones y herramientas de gestión de módulos (0.75 puntos).**
 
 ### **Cita al menos dos sistemas de control de versiones y dos herramientas de gestión de módulos.**
 
@@ -89,8 +89,9 @@ git push
 La opción *push* la usamos para subir nuestro repositorio a un repositorio remoto, por ejemplo, a un repositorio de GitHub. Previamente, habría que haber inicializado dicho repositorio con el comando *git init*
 
 
-
 ### **Cita y explica brevemente las características más definitorias de WebPack.**
-
+- Gestión de dependencias
+- Ejecución de tareas
+- Conversión de formatos 
 
 
